@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.site.ico",
     "slug": "limbo-yggdrasil",
     "status": "up",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 23,
     "timeDay": 23,
     "timeWeek": 23,
     "timeMonth": 23,
     "timeYear": 23,
-    "dailyMinutesDown": {
-      "2024-04-07": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
