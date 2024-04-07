@@ -25,7 +25,7 @@ sites:
   - name: Limbo Yggdrasil
     url: https://auth.lsmp.site/session/minecraft/profile
     expectedStatusCodes:
-      - 401
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
