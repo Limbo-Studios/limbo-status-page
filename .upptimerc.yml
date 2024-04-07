@@ -10,17 +10,17 @@ sites:
   - name: Limbo Yggdrasil Authserver
     url: https://auth.lsmp.site/auth
     expectedStatusCodes:
-      - 503
+      - 200
   - name: Skins
     url: https://auth.lsmp.site/drasl/texture
     expectedStatusCodes:
       - 404
   - name: Limbo Yggdrasil Public API
     url: https://auth.lsmp.site/auth
-  - name: Mojang Accounts Website
+  - name: Main LimboAuth Website
     url: https://auth.lsmp.site/
     expectedStatusCodes:
-      - 403
+      - 200
       - 200
   - name: Limbo Yggdrasil
     url: https://auth.lsmp.site/session/minecraft/profile
