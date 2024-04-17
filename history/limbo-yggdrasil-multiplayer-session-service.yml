@@ -1,7 +1,7 @@
 url: https://auth.lsmp.site/session
-status: down
-code: 502
-responseTime: 403
-lastUpdated: 2024-04-16T23:19:03.924Z
+status: up
+code: 404
+responseTime: 236
+lastUpdated: 2024-04-17T05:56:40.121Z
 startTime: 2024-04-07T06:27:47.406Z
 generator: Upptime <https://github.com/upptime/upptime>
