@@ -11,6 +11,14 @@ sites:
     url: https://auth.lsmp.site/api/yggdrasil
     expectedStatusCodes:
       - 200
+  - name: Mojang Multiplayer Session Service
+    url: http://session.minecraft.net
+    expectedStatusCodes:
+      - 404
+  - name: Limbo Auth Proxy
+    url: https://authproxy.lsmp.site/auth
+    expectedStatusCodes:
+      - 503
   - name: Skins
     url: https://auth.lsmp.site/texture
     expectedStatusCodes:
