@@ -18,7 +18,7 @@ sites:
   - name: Limbo Auth Proxy
     url: https://authproxy.lsmp.site/auth
     expectedStatusCodes:
-      - 503
+      - 200
   - name: Skins
     url: https://auth.lsmp.site/texture
     expectedStatusCodes:
