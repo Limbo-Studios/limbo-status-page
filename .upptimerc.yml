@@ -46,7 +46,7 @@ status-website:
   introMessage: We are not Mojang/Microsoft
   navbar:
     - title: Home
-      href: /limbo-status-page
+      href: /
     - title: Limbo Launcher source code
       href: https://github.com/Limbo-Studios/LimboLauncher
 
