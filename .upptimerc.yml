@@ -127,7 +127,6 @@ i18n:
   responseTimeWeek: "Tiempo de respuesta de 7 días."
   responseTimeMonth: "Tiempo de respuesta de 30 días."
   responseTimeYear: "Tiempo de respuesta de un año."
-  uptime: "Tiempo de respuesta total."
   uptimeDay: "tiempo de actividad de 24 horas"
   uptimeWeek: "tiempo de actividad de 7 días"
   uptimeMonth: "tiempo de actividad de 30 días"
