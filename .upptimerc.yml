@@ -78,10 +78,6 @@ i18n:
   averageResponseTimeTitle: Promedio de respuesta
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Arriba
-  down: Caído
-  degraded: Degradado
-  ms: ms
   loading: Cargando
   navGitHub: GitHub
   footer: Esta pagina es de [código abierto]($REPO), Desarrollado para [LimboAuth](https://auth.lsmp.site/)
