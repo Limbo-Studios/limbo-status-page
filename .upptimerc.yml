@@ -41,14 +41,105 @@ status-website:
   cname: status.lsmp.site
   #baseUrl: /limbo-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Limbo Services Status Page
-  introTitle: "This page is used by Limbo Launcher to get LimboAuth Yggdrasil status."
-  introMessage: We are not Mojang/Microsoft
+  name: Página de estado de los servicios de Limbo
+  introTitle: "Limbo Launcher utiliza esta página para obtener el estado de la API de Yggdrasil en LimboAuth."
+  introMessage: No somos Mojang o Microsoft
   navbar:
-    - title: Home
+    - title: Inicio
       href: /
-    - title: Limbo Launcher source code
-      href: https://github.com/Limbo-Studios/LimboLauncher
+    - title: Descargar Limbo Launcher
+      href: https://github.com/Limbo-Studios/LimboLauncher/releases/latest
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+#traducción
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS posts
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Arreglado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y subscribir en GitHub
+  incidentCommentSummary: Posteado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo promedio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Promedio de respuesta
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Caído
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Esta pagina es de [código abierto]($REPO), Desarrollado para [LimboAuth](https://auth.lsmp.site/)
+  rateLimitExceededTitle: Cuota límite excedida
+  rateLimitExceededIntro: Has superado el número de solicitudes que puedes realizar en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De forma predeterminada, GitHub permite a cada dirección IP 60 solicitudes por hora, las cuales ya has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Alternativamente, puede agregar su token de acceso personal de GitHub, lo que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda cómo generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un conjunto de tokens de acceso personal.
+  rateLimitExceededRemoveToken: Remover token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al intentar obtener los detalles del estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir a la pagina principal
+  pastScheduledMaintenance: Mantenimiento programado anterior
+  scheduledMaintenance: Mantenimiento Programado
+  scheduledMaintenanceSummaryStarted: Iniciado el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE por $DURATION minutos
+  startedAt: Iniciado el
+  startsAt: Inicia el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1a
+  durationAll: Todo
+#readme
+  url: "URL"
+  status: "Estado"
+  history: "Historia"
+  responseTime: "Tiempo de respuesta"
+  uptime: "tiempo de actividad"
+  up: "🟩 Arriba"
+  degraded: "🟨 Degradado"
+  down: "🟥 Caído"
+  responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
+  ms: "ms"
+  responseTime: "Tiempo de respuesta"
+  responseTimeDay: "Tiempo de respuesta de 24 horas."
+  responseTimeWeek: "Tiempo de respuesta de 7 días."
+  responseTimeMonth: "Tiempo de respuesta de 30 días."
+  responseTimeYear: "Tiempo de respuesta de un año."
+  uptime: "Tiempo de respuesta total."
+  uptimeDay: "tiempo de actividad de 24 horas"
+  uptimeWeek: "tiempo de actividad de 7 días"
+  uptimeMonth: "tiempo de actividad de 30 días"
+  uptimeYear: "tiempo de actividad de un año"
+  liveStatus: "Estado en vivo"
+  liveStatusHtmlComment: "<!--estado en vivo-->"
+  allSystemsOperational: "🟩 Todos los sistemas operativos"
+  degradedPerformance: "🟨 Rendimiento degradado"
+  completeOutage: "🟥 Interrupción total"
+  partialOutage: "🟧 Corte parcial"
