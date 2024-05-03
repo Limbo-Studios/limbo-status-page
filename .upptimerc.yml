@@ -121,6 +121,7 @@ i18n:
   up: "🟩 Arriba"
   degraded: "🟨 Degradado"
   down: "🟥 Caído"
+  ms: "ms"
   responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
   responseTimeDay: "Tiempo de respuesta de 24 horas."
   responseTimeWeek: "Tiempo de respuesta de 7 días."
