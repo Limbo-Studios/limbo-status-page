@@ -57,7 +57,6 @@ status-website:
 
 i18n:
   activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
   incidentReport: "Reporte del incidente #$NUMBER →"
   activeIncidentSummary: Abierto el $DATE con $POSTS posts
   incidentTitle: Detalles del incidente $NUMBER
