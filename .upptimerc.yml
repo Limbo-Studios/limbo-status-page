@@ -131,7 +131,6 @@ i18n:
   uptimeWeek: "tiempo de actividad de 7 días"
   uptimeMonth: "tiempo de actividad de 30 días"
   uptimeYear: "tiempo de actividad de un año"
-  liveStatus: "Estado en vivo"
   liveStatusHtmlComment: "<!--estado en vivo-->"
   allSystemsOperational: "🟩 Todos los sistemas operativos"
   degradedPerformance: "🟨 Rendimiento degradado"
