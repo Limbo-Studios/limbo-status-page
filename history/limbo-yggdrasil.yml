@@ -1,7 +1,7 @@
 url: https://auth.lsmp.site/api/yggdrasil/sessionserver/session/minecraft/profile
-status: down
-code: 502
-responseTime: 33
-lastUpdated: 2024-05-04T08:28:56.272Z
+status: up
+code: 404
+responseTime: 223
+lastUpdated: 2024-05-04T08:32:12.066Z
 startTime: 2024-04-07T06:27:49.393Z
 generator: Upptime <https://github.com/upptime/upptime>
