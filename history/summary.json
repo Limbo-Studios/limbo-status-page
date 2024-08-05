@@ -99,7 +99,7 @@
     "url": "https://authproxy.lsmp.site/auth",
     "icon": "https://icons.duckduckgo.com/ip3/authproxy.lsmp.site.ico",
     "slug": "limbo-auth-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "96.19%",
     "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
