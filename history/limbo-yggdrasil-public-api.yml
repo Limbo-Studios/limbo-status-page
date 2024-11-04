@@ -1,7 +1,7 @@
 url: https://auth.lsmp.site/api/yggdrasil
-status: down
-code: 500
-responseTime: 1270
-lastUpdated: 2024-11-03T23:23:48.248Z
+status: up
+code: 200
+responseTime: 910
+lastUpdated: 2024-11-04T02:35:59.726Z
 startTime: 2024-04-07T06:27:48.619Z
 generator: Upptime <https://github.com/upptime/upptime>
