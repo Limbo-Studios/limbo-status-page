@@ -15,10 +15,6 @@ sites:
     url: http://session.minecraft.net
     expectedStatusCodes:
       - 404
-  - name: Limbo Auth Proxy
-    url: https://authproxy.lsmp.site/auth
-    expectedStatusCodes:
-      - 200
   - name: Skins
     url: https://auth.lsmp.site/texture
     expectedStatusCodes:
