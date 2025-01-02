@@ -1,7 +1,7 @@
-url: https://auth.lsmp.site/api/yggdrasil/sessionserver
-status: down
-code: 502
-responseTime: 317
-lastUpdated: 2025-01-02T07:56:08.731Z
+url: https://auth.lsmp.tech/api/yggdrasil/sessionserver
+status: up
+code: 404
+responseTime: 2703
+lastUpdated: 2025-01-02T08:48:18.470Z
 startTime: 2024-04-07T06:27:47.406Z
 generator: Upptime <https://github.com/upptime/upptime>
