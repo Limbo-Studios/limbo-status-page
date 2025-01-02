@@ -4,11 +4,11 @@ repo: limbo-status-page # The name of this repository
 
 sites:
   - name: Limbo Yggdrasil Multiplayer Session Service
-    url: https://auth.lsmp.site/api/yggdrasil/sessionserver
+    url: https://auth.lsmp.tech/api/yggdrasil/sessionserver
     expectedStatusCodes:
       - 404
   - name: Limbo Yggdrasil Authserver
-    url: https://auth.lsmp.site/api/yggdrasil
+    url: https://auth.lsmp.tech/api/yggdrasil
     expectedStatusCodes:
       - 200
   - name: Mojang Multiplayer Session Service
@@ -16,25 +16,25 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Skins
-    url: https://auth.lsmp.site/texture
+    url: https://auth.lsmp.tech/texture
     expectedStatusCodes:
       - 405
   - name: Limbo Yggdrasil Public API
-    url: https://auth.lsmp.site/api/yggdrasil
+    url: https://auth.lsmp.tech/api/yggdrasil
   - name: Main LimboAuth Website
-    url: https://auth.lsmp.site/
+    url: https://auth.lsmp.tech/
     expectedStatusCodes:
       - 200
       - 200
   - name: Limbo Yggdrasil
-    url: https://auth.lsmp.site/api/yggdrasil/sessionserver/session/minecraft/profile
+    url: https://auth.lsmp.tech/api/yggdrasil/sessionserver/session/minecraft/profile
     expectedStatusCodes:
       - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.lsmp.site
+  cname: status.lsmp.tech
   #baseUrl: /limbo-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Página de estado de los servicios de Limbo
