@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-multiplayer-session-service",
     "status": "down",
-    "uptime": "82.15%",
+    "uptime": "81.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.55%",
+    "uptimeYear": "80.28%",
     "time": 1062,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1202,
+    "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -96,8 +97,7 @@
       "2024-06-28": 1192,
       "2024-06-27": 540,
       "2024-06-01": 85,
-      "2024-05-17": 104,
-      "2024-05-16": 515
+      "2024-05-17": 104
     }
   },
   {
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-authserver",
     "status": "down",
-    "uptime": "79.21%",
+    "uptime": "79.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.31%",
+    "uptimeYear": "77.03%",
     "time": 421,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 471,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -209,8 +210,7 @@
       "2024-06-28": 1192,
       "2024-06-27": 540,
       "2024-06-01": 84,
-      "2024-05-17": 104,
-      "2024-05-16": 514
+      "2024-05-17": 104
     }
   },
   {
@@ -225,9 +225,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 63,
-    "timeWeek": 99,
-    "timeMonth": 132,
+    "timeDay": 28,
+    "timeWeek": 87,
+    "timeMonth": 131,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -237,18 +237,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "skins",
     "status": "down",
-    "uptime": "82.14%",
+    "uptime": "81.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.54%",
+    "uptimeYear": "80.27%",
     "time": 358,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 397,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -327,8 +328,7 @@
       "2024-06-28": 1191,
       "2024-06-27": 540,
       "2024-06-01": 74,
-      "2024-05-17": 104,
-      "2024-05-16": 513
+      "2024-05-17": 104
     }
   },
   {
@@ -337,18 +337,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-public-api",
     "status": "down",
-    "uptime": "79.21%",
+    "uptime": "79.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.31%",
+    "uptimeYear": "77.04%",
     "time": 250,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -440,8 +441,7 @@
       "2024-06-28": 1191,
       "2024-06-27": 540,
       "2024-06-01": 74,
-      "2024-05-17": 104,
-      "2024-05-16": 513
+      "2024-05-17": 104
     }
   },
   {
@@ -450,18 +450,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "main-limbo-auth-website",
     "status": "down",
-    "uptime": "82.99%",
+    "uptime": "82.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.48%",
+    "uptimeYear": "81.21%",
     "time": 240,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -537,8 +538,7 @@
       "2024-06-28": 1190,
       "2024-06-27": 540,
       "2024-06-01": 73,
-      "2024-05-17": 104,
-      "2024-05-16": 512
+      "2024-05-17": 104
     }
   },
   {
@@ -547,18 +547,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.lsmp.tech.ico",
     "slug": "limbo-yggdrasil",
     "status": "down",
-    "uptime": "82.17%",
+    "uptime": "81.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.57%",
+    "uptimeYear": "80.29%",
     "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 241,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-05-15": 112,
+      "2025-05-16": 115,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -636,8 +637,7 @@
       "2024-06-28": 1190,
       "2024-06-27": 540,
       "2024-06-01": 73,
-      "2024-05-17": 104,
-      "2024-05-16": 512
+      "2024-05-17": 104
     }
   }
 ]
